@@ -4,6 +4,7 @@ rencana konten
 *ES6
 *framework Javascript
   ^vue
+  ^react
 -struktur data dasar
 -PHP franeworks
   ^laravel
