@@ -1,6 +1,8 @@
 rencana konten
 
 -javascript
+*ES6
+*framework Javascript
 -PHP franeworks
 -interview
 -vlog
