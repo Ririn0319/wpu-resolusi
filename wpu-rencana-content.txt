@@ -5,7 +5,6 @@ rencana konten
 *framework Javascript
   ^vue
   ^react
--struktur data dasar
 -PHP franeworks
   ^laravel
 -interview
