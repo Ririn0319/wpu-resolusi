@@ -5,8 +5,10 @@ rencana konten
 *framework Javascript
   ^vue
   ^react
+  -struktur data
 -PHP franeworks
   ^laravel
 -interview
 -vlog
 -pyton
+-bahasa pemrograman
